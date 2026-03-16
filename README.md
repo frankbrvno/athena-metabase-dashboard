@@ -9,7 +9,7 @@ A partir dessas tabelas, são criadas **consultas analíticas e views** que alim
 
 # Arquitetura
 
-![Arquitetura](docs/diagrama_projeto.png)
+![Arquitetura](doc/diagrama_projeto.png)
 
 ## Data Pipeline
 
