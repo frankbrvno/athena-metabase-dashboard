@@ -9,7 +9,7 @@ A partir dessas tabelas, são criadas **consultas analíticas e views** que alim
 
 # Arquitetura
 
-![Arquitetura](doc/diagrama_netflix_analytics.png)
+![Arquitetura](docs/diagrama_projeto.png)
 
 ## Data Pipeline
 
