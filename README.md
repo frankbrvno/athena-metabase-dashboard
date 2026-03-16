@@ -1,4 +1,4 @@
-# Netflix Analytics with AWS Athena and Metabase
+# Netflix Analytics com AWS Athena e Metabase
 
 Projeto de análise de dados utilizando **AWS Athena** e **Metabase** para explorar e visualizar dados do catálogo e avaliações da Netflix.
 
