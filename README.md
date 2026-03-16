@@ -9,7 +9,7 @@ A partir dessas tabelas, são criadas **consultas analíticas e views** que alim
 
 # Arquitetura
 
-![Arquitetura](docs/diagrama_netflix_analytics.png)
+![Arquitetura](doc/diagrama_netflix_analytics.png)
 
 ## Data Pipeline
 
@@ -31,9 +31,6 @@ O pipeline de dados segue o seguinte fluxo:
 * Git / GitHub
 
 ---
-
-```
-
 
 # Modelagem de dados
 
